@@ -4777,11 +4777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\Acme.RestaurantHelper.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\Acme.RestaurantHelper.Tests.csproj",
       "projectName": "Acme.RestaurantHelper.Tests",
-      "projectPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\Acme.RestaurantHelper.Tests.csproj",
+      "projectPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\Acme.RestaurantHelper.Tests.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\obj\\",
+      "outputPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4797,8 +4797,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj"
+            "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj": {
+              "projectPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jue2flg18xYNGsA0Rbe6I62d0Z4gUMA+XrGjlVmrCXaJC8GWl1N7YbqIFZgkKyU3cpsFsu1mmspMdtriM4ekvg==",
+  "dgSpecHash": "gvfdjw6CTXb/VaNqZ5fEs+oMkSjKZu1jvQQ9A4yKsLQsqoULLRZXlDeKL2n4BehujvD+f8ZJTokHLOTJRtxBfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\Acme.RestaurantHelper.Tests.csproj",
+  "projectFilePath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Tests\\Acme.RestaurantHelper.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

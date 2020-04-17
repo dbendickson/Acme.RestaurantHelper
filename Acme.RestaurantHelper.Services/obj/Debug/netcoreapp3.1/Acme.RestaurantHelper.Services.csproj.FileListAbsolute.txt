@@ -10,3 +10,15 @@ C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.Restau
 C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.csproj.CopyComplete
 C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.dll
 C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.pdb
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.deps.json
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.dll
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.pdb
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.dll
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.pdb
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.csprojAssemblyReference.cache
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.csproj.CoreCompileInputs.cache
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.AssemblyInfoInputs.cache
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.AssemblyInfo.cs
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.csproj.CopyComplete
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.dll
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Services\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Services.pdb

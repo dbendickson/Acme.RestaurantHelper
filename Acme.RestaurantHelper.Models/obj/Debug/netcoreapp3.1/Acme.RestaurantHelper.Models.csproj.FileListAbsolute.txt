@@ -7,3 +7,12 @@ C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.Restau
 C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.dll
 C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.pdb
 C:\Users\david\source\repos\Revel\With Angular\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.csprojAssemblyReference.cache
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.deps.json
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.dll
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\bin\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.pdb
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.csprojAssemblyReference.cache
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.csproj.CoreCompileInputs.cache
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.AssemblyInfoInputs.cache
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.AssemblyInfo.cs
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.dll
+C:\Users\david\Source Control\Git\Acme.RestaurantHelper\Acme.RestaurantHelper.Models\obj\Debug\netcoreapp3.1\Acme.RestaurantHelper.Models.pdb

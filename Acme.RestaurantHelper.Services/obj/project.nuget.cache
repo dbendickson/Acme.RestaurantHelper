@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "au4Gs6oBOvaQOQm7yzcF1ukz0OFb8xWxcnIpEazpkfxGS8f9CT6Bj8+LjIUvzQfeppmnKQ73pnIb7jfWNghzMw==",
+  "dgSpecHash": "51QHJdtcZaiu+AL0LwSvGRKIA9TZDnNgKiOZa6LeSLufPXrIjLg3PtqIyZIxRE0JnJ9aHM+PF72gNrg70/YjaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj",
+  "projectFilePath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

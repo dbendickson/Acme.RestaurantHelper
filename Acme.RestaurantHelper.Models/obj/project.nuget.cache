@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rs4bcDV7uA9MuIyaiDkZs4avNfcYu0Qq0FIetlHnz9g5l6YcP/2tfIWhW3FJ+NLVwGg26hgRC8EVqkPRdyG3Uw==",
+  "dgSpecHash": "t6Cn6L9I64HaRyM3XY1U+RhVSwd+B58raAf3Xg2nG8V9xUSR2j/SIa0xAZDf6cqzf/LQn1cPQQbbtoMV4eDd/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj",
+  "projectFilePath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

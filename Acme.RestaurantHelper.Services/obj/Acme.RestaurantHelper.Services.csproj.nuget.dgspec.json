@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj": {}
+    "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj": {
+    "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj",
         "projectName": "Acme.RestaurantHelper.Models",
-        "projectPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj",
+        "projectPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\obj\\",
+        "outputPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj": {
+    "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj",
         "projectName": "Acme.RestaurantHelper.Services",
-        "projectPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj",
+        "projectPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\Acme.RestaurantHelper.Services.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\obj\\",
+        "outputPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\Revel\\With Angular\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj"
+              "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj": {
+                "projectPath": "C:\\Users\\david\\Source Control\\Git\\Acme.RestaurantHelper\\Acme.RestaurantHelper.Models\\Acme.RestaurantHelper.Models.csproj"
               }
             }
           }
