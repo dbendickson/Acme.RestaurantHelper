@@ -1,0 +1,14 @@
+<h1 id="tableLabel">Weather</h1>
+
+<p>This component gets the next 5 days of weather from the server and displays what the best contact method for that date would be.</p>
+
+<p *ngIf="!weatherResults"><em>Loading...</em></p>
+
+<div *ngFor="let weatherResult of weatherResults" class="weatherBox">
+  <div class="weatherBoxLines">Date: {{weatherResult.date}}</div>
+  <div class="weatherBoxLines">Time: {{weatherResult.time}}</div>
+  <div class="weatherBoxLines">Temp: {{weatherResult.temperature}}&deg;</div>
+  <div class="weatherBoxLines">Method: {{weatherResult.contactMethod}}</div>
+</div>
+
+
